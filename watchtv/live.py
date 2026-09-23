@@ -5,7 +5,7 @@ import os
 
 # ========== 填写源的地址 ==========
 URL_LIST = [
-     "http://iptv.4666888.xyz/FYTV.txt",
+     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/ZB/gat.m3u8",
      "https://raw.githubusercontent.com/lihansong888/DSZBFYGAT/refs/heads/main/watchtv/live.m3u8",
   
 ]
