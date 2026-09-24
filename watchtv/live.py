@@ -5,14 +5,14 @@ import os
 
 # ========== 填写源的地址 ==========
 URL_LIST = [
-     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/ZB/gat.m3u8",
+     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/ZB/gat.txt",
      
   
 ]
 
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
-    "HS风云极速": "HS风云极速",
+    "HS風雲港澳臺頻道": "HS風雲港澳臺頻道",
     
     
     
